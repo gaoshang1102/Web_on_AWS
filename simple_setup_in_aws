@@ -4,3 +4,9 @@
     private: 172.16.20.0/24
 3, create internet gateway, attach to previous vpc.
 4, create route table
+
+
+创建一个新的EC2服务器
+
+
+
