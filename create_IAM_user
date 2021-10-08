@@ -1,0 +1,5 @@
+1, Go to IAM Dashboard
+2, The user group labmember-group has the rights AdministrationAccess
+3, Create new users under the usergroup labmember-group 
+4, login with jrlab-aws altas
+5, IAM user names
